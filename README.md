@@ -3,8 +3,6 @@
 A simple console-based **inventory and sales management program** written in **C++**.  
 It allows managing products across different categories (Electronics, Grocery, Medicines, Sports, etc.), tracking stock quantities, prices, adding/updating items, searching, and simulating sales — with all data saved persistently in a text file.
 
-This was developed as a college/university project (in 2025-2026).
-
 ## Features
 
 - View all products with category, quantity and price
@@ -27,7 +25,7 @@ This was developed as a college/university project (in 2025-2026).
 - Basic error checking (invalid input, out-of-stock, etc.)
 - Input validation
 
-## How to Run (Visual Studio – most common for students in Pakistan)
+## How to Run (Visual Studio)
 
 1. Open the project in **Visual Studio** (2019 / 2022 / 2025 recommended)
 2. Make sure `Inventory.txt` is in the same folder as your `.cpp` file (or in the project directory)
