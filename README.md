@@ -41,6 +41,18 @@ After building, the executable (`.exe`) will appear in:
 
 **Important:** Keep `Inventory.txt` in the **same folder as the .exe** so the program can read/write it.
 
+## Login Information
+
+The program includes a simple **admin mode** with hardcoded credentials (for demo purposes only – not secure for real apps).
+
+- Username: `ar`
+- Password: `ar123`
+
+After logging in as admin, you get extra options like:
+- Add new products
+- Update/delete items
+- Other admin functions
+
 ## Sample Output Preview
 <img width="1346" height="686" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/3729124c-a3a8-4503-82db-c3598e80497a" />
 <img width="1352" height="688" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/b872577b-a5eb-4b67-b50a-f08e88489b35" />
@@ -49,5 +61,5 @@ After building, the executable (`.exe`) will appear in:
 
 
 ## Project Files
-main.cpp
-Inventory.txt
+- main.cpp
+- Inventory.txt
